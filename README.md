@@ -1,1 +1,4 @@
-# gitskills
+#!/bin/bash
+
+echo "hello world"
+
