@@ -2,6 +2,6 @@
 
 echo "hello world"
 
-append a new line
+echo "and new line"
 
 #end 
